@@ -9,6 +9,7 @@ interactive multilingual document for print receipts, etc. With responsive desig
 - [Hero](https://d43vlr-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-hero-svelte) [HTML](https://github.com/zummon/invoice-hero)
 - [Majors](https://tkdk0x-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-majors-svelte) [HTML](https://github.com/zummon/invoice-majors)
 - [Tagcard](https://njxu2g-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-tagcard-svelte) [HTML](https://github.com/zummon/invoice-tagcard)
+
 Cash sales
 - [Grind](https://28nk5v-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/cash-sale-grind-svelte)
 - [Lite](https://ofhk91-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/cash-sale-lite-svelte) [HTML](https://github.com/zummon/cash-sale-lite)
