@@ -1,3 +1,9 @@
+# About me
+zummon is a made up name. Since 1st August 2019. Doing these to find what I like to do and share to everyone. My name is Teerapat Anantarattanachai, or just call Tee.
+
+# Donate to support
+I open for everyone to use and get benefits from what I make for free, But I still need money. Also if you want something, let's request me to make. Pay me any amount you like.
+
 ## invoice
 interactive multilingual document for print receipts, etc. With responsive design that fits A4 and any size paper.
 - [Bookmark](https://5g5x9y-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-bookmark-svelte) [HTML](https://github.com/zummon/invoice-bookmark)
@@ -24,12 +30,6 @@ Make static website from starter templates. Using Jamstack tools. Easily edit an
 Experiment to empower workspace foundation.
 - [Accounting](https://github.com/zummon/accounting-app)
 - [Human Resources](https://github.com/zummon/human-resources-app)
-
-# About me
-zummon is a made up name. Since 1st August 2019. Doing these to find what I like to do and share to everyone. My name is Teerapat Anantarattanachai, or just call Tee.
-
-# Donate to support
-I open for everyone to use and get benefits from what I make for free, But I still need money. Also if you want something, let's request me to make. Pay me any amount you like.
 
 <!--
 **zummon/zummon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
