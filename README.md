@@ -1,6 +1,3 @@
-# Apps, spreadsheets, templates, and more
-for everyone to get benefits from what I make. And bring inspiration to reality.
-
 ## invoice
 interactive multilingual document for print receipts, etc. With responsive design that fits A4 and any size paper.
 - [Bookmark](https://5g5x9y-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-bookmark-svelte) [HTML](https://github.com/zummon/invoice-bookmark)
