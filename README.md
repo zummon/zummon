@@ -6,16 +6,16 @@ I open for everyone to use and get benefits from what I make for free, But I sti
 
 ## invoice
 interactive multilingual document for print receipts, etc. With responsive design that fits A4 and any size paper.
-- [Bookmark](https://5g5x9y-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-bookmark-svelte) [HTML](https://github.com/zummon/invoice-bookmark)
-- [Business](https://uuywsu-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-business-svelte) [HTML](https://github.com/zummon/invoice-business)
-- [Choc chip](https://psouyp-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-choc-chip-svelte) [HTML](https://github.com/zummon/invoice-choc-chip)
-- [Hero](https://d43vlr-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-hero-svelte) [HTML](https://github.com/zummon/invoice-hero)
-- [Majors](https://tkdk0x-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-majors-svelte) [HTML](https://github.com/zummon/invoice-majors)
-- [Tagcard](https://njxu2g-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/invoice-tagcard-svelte) [HTML](https://github.com/zummon/invoice-tagcard)
+- [Bookmark](https://invoice-bookmark.netlify.app/)
+- [Business](https://invoice-business.netlify.app/)
+- [Choc chip](https://invoice-5173.netlify.app/)
+- [Hero](https://inv-hero.netlify.app/)
+- [Majors](https://invoice-majors.netlify.app/)
+- [Tagcard](https://invoice-tagcard.netlify.app/)
 
 Cash sales
-- [Grind](https://28nk5v-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/cash-sale-grind-svelte)
-- [Lite](https://ofhk91-5173.csb.app/) [code](https://codesandbox.io/p/github/zummon/cash-sale-lite-svelte) [HTML](https://github.com/zummon/cash-sale-lite)
+- [Grind](https://cash-sale-grind.netlify.app/)
+- [Lite](https://cash-sale-lite.netlify.app/)
 
 ## site
 Make static website from starter templates. Using Jamstack tools. Easily edit and add contents as much as you want.
@@ -25,11 +25,6 @@ Make static website from starter templates. Using Jamstack tools. Easily edit an
 - [Foody Sweety](https://86gbg2-3000.csb.app/) [Next.js](https://codesandbox.io/p/github/zummon/foody-sweety-nextjs)
 - [Sunlight interior](https://nfg71o-5173.csb.app/) [SvelteKit](https://codesandbox.io/p/github/zummon/sunlight-interior-sveltekit) [Next.js](https://codesandbox.io/p/github/zummon/sunlight-interior-nextjs)
 - [Train Travel](https://in25o2-3000.csb.app/) [Next.js](https://codesandbox.io/p/github/zummon/train-travel-nextjs)
-
-## App 
-Experiment to empower workspace foundation.
-- [Accounting](https://github.com/zummon/accounting-app)
-- [Human Resources](https://github.com/zummon/human-resources-app)
 
 <!--
 **zummon/zummon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
