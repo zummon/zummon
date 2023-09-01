@@ -8,7 +8,7 @@ I open for everyone to use and get benefits from what I make for free, But I sti
 interactive multilingual document for print receipts, etc. With responsive design that fits A4 and any size paper.
 - [Bookmark](https://invoice-bookmark.netlify.app/)
 - [Business](https://invoice-business.netlify.app/)
-- [Choc chip](https://invoice-5173.netlify.app/)
+- [Choc chip](https://invoice-choc-chip.netlify.app/)
 - [Hero](https://inv-hero.netlify.app/)
 - [Majors](https://invoice-majors.netlify.app/)
 - [Tagcard](https://invoice-tagcard.netlify.app/)
