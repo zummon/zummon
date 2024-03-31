@@ -1,8 +1,5 @@
 # About me
-zummon is a made up name. Since 1st August 2019. Doing these to find what I like to do and share to everyone. My name is Teerapat Anantarattanachai, or just call Tee.
-
-# Donate to support
-I open for everyone to use and get benefits from what I make for free, But I still need money. Also if you want something, let's request me to make. Pay me any amount you like.
+zummon is a made up name. Doing these to find what I like to do and hope to get money from it. My full name is Teerapat Anantarattanachai, short name is Tee.
 
 <!--
 **zummon/zummon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
