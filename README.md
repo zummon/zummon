@@ -1,5 +1,5 @@
 # About me
-zummon is a made up name. Doing these to find what I like to do and hope to get money from it. My full name is Teerapat Anantarattanachai, short name is Tee.
+zummon is from summon, make useful stuff for everyone. Doing these to find what I like to do and hope to get money from it. My full name is Teerapat Anantarattanachai, short name is Tee
 
 <!--
 **zummon/zummon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
