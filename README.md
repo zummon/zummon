@@ -2,7 +2,7 @@
 
 [Paypal](https://paypal.me/zummonSpace)
 
-[Buy me a coffee](buymeacoffee.com/zummon)
+[Buy me a coffee](https://buymeacoffee.com/zummon)
 
 <!--
 **zummon/zummon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
