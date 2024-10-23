@@ -1,5 +1,8 @@
-# About me
-make useful stuff for everyone to use. Doing these to find what I like to do and hope to get money from it. My full name is Teerapat Anantarattanachai, short name is Tee
+## Donate to support
+
+[Paypal](https://paypal.me/zummonSpace)
+
+[Buy me a coffee](buymeacoffee.com/zummon)
 
 <!--
 **zummon/zummon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
