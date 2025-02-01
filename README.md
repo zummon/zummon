@@ -1,10 +1,12 @@
-### Front-end apps
+### Projects
 
-[receipt](https://codepen.io/zummon/full/ogvoyzN) A multilingual receipt app with interactive editing, query string-based data persistence (saving and loading), print functionality, and automatic total calculation.
+[invoice](https://codepen.io/zummon/full/wvLrqBe), [receipt](https://codepen.io/zummon/full/ogvoyzN) A multilingual receipt app with interactive editing, query string-based data persistence (saving and loading), print functionality, and automatic total calculation.
 
 [invite](https://codepen.io/zummon/full/KwPoyyB) make your invitation card and get printing.
 
 [business-card](https://codepen.io/zummon/full/OPLwxvr) make your business card and get printing.
+
+[tic-tac-toe](https://codepen.io/zummon/full/abrgQrj) Play XO game with your friend, the placed X and O will disappear after several rounds.
 
 ### Donate to support
 
