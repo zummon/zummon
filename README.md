@@ -8,6 +8,8 @@
 
 [tic-tac-toe](https://codepen.io/zummon/full/abrgQrj) Play XO game with your friend, the placed X and O will disappear after several rounds.
 
+[Royal cards list](https://docs.google.com/spreadsheets/d/1xqDGNq4uZaVBlKglwG_ue4wqSkT2ykIduMhN31qHaIo/edit?usp=sharing) Data center to get JSON to work on some projects.
+
 ### Donate to support
 
 [Paypal](https://paypal.me/zummonSpace)
