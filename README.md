@@ -4,7 +4,7 @@
 
 [business-card](https://codepen.io/zummon/full/OPLwxvr), [invite](https://codepen.io/zummon/full/KwPoyyB) make your invitation card and get printing.
 
-[tic-tac-toe](https://codepen.io/zummon/full/abrgQrj) Play XO game with your friend, the placed X and O will disappear after several rounds.
+[color-nuts](https://codepen.io/zummon/full/emOBbBJ), [tic-tac-toe](https://codepen.io/zummon/full/abrgQrj) Play XO game with your friend, the placed X and O will disappear after several rounds.
 
 [Royal cards list](https://docs.google.com/spreadsheets/d/1xqDGNq4uZaVBlKglwG_ue4wqSkT2ykIduMhN31qHaIo/edit?usp=sharing) Data center to get JSON to work on some projects.
 
