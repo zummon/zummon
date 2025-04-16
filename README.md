@@ -12,6 +12,8 @@
 
 [Accounting App](https://script.google.com/macros/s/AKfycbyrXxK85AtwZfTR5de0WQzltTnln_MW8mqpp75d81Y7cGj4rJF4mQ2wCvPjIAW8GT5rGA/exec?want=app) Google apps script Try public data
 
+[Human Resource App (PUBLIC Experiment)](https://script.google.com/macros/s/AKfycbzBaej0NEOzpT_FQe7fB_10nPHh3cKd6kcGZAceeLhnb8eU7HYsgvwWM5h0DPHVeAPJ/exec?app=register)
+
 ### Donate to support
 
 [Paypal](https://paypal.me/zummonSpace)
